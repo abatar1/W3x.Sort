@@ -1,5 +1,5 @@
 # W3x.Sort
-Sorter for w3x maps written on c#. The program sorts all maps in adjacent and nested directories.
+Sorter for w3x maps written on c#. The program sorts all maps in adjacent and nested directories. Download executable file from [here](https://github.com/abatar1/W3x.Sort/releases).
 
 # Command line parameters
 * Parameters to process all files to directories named by max player number:
