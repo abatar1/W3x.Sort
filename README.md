@@ -6,7 +6,7 @@ Sorter for w3x maps written on c#.
 ```sh
 -t All
 ```
-* Parameters to process files except files with keyword. Files which contains keyword moving to directory with "Name" name.
+* Parameters to process files except files with keyword. Files which contains keyword moving to directory with %keyword% name.
 ```sh
 -t ByName -k %keyword%
 ```
