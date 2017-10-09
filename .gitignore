@@ -1,0 +1,5 @@
+bin
+obj
+/packages
+.vs/PravoAdder/v15/
+.vs/config/
